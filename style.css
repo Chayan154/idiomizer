@@ -11,7 +11,7 @@ main {
     margin : 15px auto;
 }
 
-#get_idiom {
+button{
     width: auto;
     height: auto;
     min-height: 40px;
@@ -27,7 +27,7 @@ main {
     -o-border-radius: 20px;
 }
 
-#get_idiom:hover {
+button:hover {
     background-color: rgb(240, 240, 240);
 }
 
